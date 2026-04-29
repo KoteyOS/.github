@@ -1,7 +1,9 @@
-<img width="1916" height="498" alt="Frame 7191" src="https://github.com/user-attachments/assets/9d19e3cb-bdc4-4f6c-8062-18ef042bae3b" />
+<img width="1916" height="498" alt="Frame 1187517106" src="https://github.com/user-attachments/assets/e23cfa41-8508-4f58-9746-ea8624fdb719" />
 <br><p align="center">we are koteyos</p>
+<p align="center"><a href="https://t.me/koteyos">telegram</a></p>
 
 <!--
+blah blah github stuffs
 ## Hi there 👋
 **Here are some ideas to get you started:**
 
