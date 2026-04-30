@@ -1,4 +1,4 @@
-<img width="1916" height="498" alt="Frame 1187517106" src="https://github.com/user-attachments/assets/62050f16-b43d-443d-ada7-d19830c100e8" />
+<img width="1916" height="498" alt="banner" src="https://dl.lidny.org/images/banner-kotey-github.png" />
 <br><p align="center">we are koteyos</p>
 <p align="center"><a href="https://t.me/koteyos">telegram</a></p>
 
