@@ -1,4 +1,4 @@
-<img width="1916" height="498" alt="Frame 1187517106" src="https://github.com/user-attachments/assets/e23cfa41-8508-4f58-9746-ea8624fdb719" />
+<img width="1916" height="498" alt="Frame 1187517106" src="https://github.com/user-attachments/assets/62050f16-b43d-443d-ada7-d19830c100e8" />
 <br><p align="center">we are koteyos</p>
 <p align="center"><a href="https://t.me/koteyos">telegram</a></p>
 
