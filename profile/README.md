@@ -1,5 +1,5 @@
 <img width="1916" height="498" alt="banner" src="https://dl.lidny.org/images/banner-kotey-github.png" />
-<br><p align="center">we are koteyos</p>
+<p align="center">we are koteyos</p>
 <p align="center"><a href="https://t.me/koteyos">telegram</a></p>
 
 <!--
